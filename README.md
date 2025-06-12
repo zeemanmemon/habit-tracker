@@ -1,12 +1,12 @@
 Habit Tracker
 =============
 
-_Track habits, build streaks, and earn badges – all from a simple desktop app._
+_Track habits, build streaks, and earn badges, all from a simple desktop app._
 
 Overview
 --------
 
-This is a user-friendly habit tracker built with **Python** and **Tkinter**. It helps you build consistency through:
+This is a user-friendly habit tracker built with **Python** and **Tkinter**, inspired by the book [*Atomic Habits* by James Clear](https://jamesclear.com/atomic-habits). It helps you build consistency through:
 
 * 📅 Calendar-based habit tracking
 * 🔥 Streak and longest streak tracking
@@ -79,8 +79,4 @@ Ideas for Future Features
 * 📝 Add notes for each day
 * 🔔 Optional reminders
 
-Author
-------
-
-**Made by Zeeman Memon**  
 You're welcome to customize, fork, or expand this project to suit your needs.
